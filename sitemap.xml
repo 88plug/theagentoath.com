@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Main page -->
+    <url>
+        <loc>https://theagentoath.com/</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Plain text version -->
+    <url>
+        <loc>https://theagentoath.com/oath.txt</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Markdown version -->
+    <url>
+        <loc>https://theagentoath.com/oath.md</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- JSON version -->
+    <url>
+        <loc>https://theagentoath.com/oath.json</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- CLAUDE.md template -->
+    <url>
+        <loc>https://theagentoath.com/templates/CLAUDE.md</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- System prompt template -->
+    <url>
+        <loc>https://theagentoath.com/templates/SYSTEM_PROMPT.txt</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Agent config template -->
+    <url>
+        <loc>https://theagentoath.com/templates/agent-config.yaml</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Implementation guide -->
+    <url>
+        <loc>https://theagentoath.com/templates/implementation-guide.md</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Well-known location -->
+    <url>
+        <loc>https://theagentoath.com/.well-known/agent-oath.json</loc>
+        <lastmod>2025-01-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>

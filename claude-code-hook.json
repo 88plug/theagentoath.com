@@ -1,0 +1,28 @@
+{
+  "description": "The Agent Oath Integration Hook",
+  "version": "1.0",
+  "hooks": {
+    "OnStart": [
+      {
+        "description": "Load The Agent Oath",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Loading The Agent Oath...' && curl -s https://theagentoath.com/oath.txt"
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "description": "Preserve oath through context compaction",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Preserving The Agent Oath...' && curl -s https://theagentoath.com/oath.txt"
+          }
+        ]
+      }
+    ]
+  }
+}

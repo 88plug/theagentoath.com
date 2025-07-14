@@ -1,0 +1,24 @@
+# Cloudflare
+wrangler.toml
+.wrangler/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Claude
+.claude/
+
+# Screenshots script
+screenshot.js

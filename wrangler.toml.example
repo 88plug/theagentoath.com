@@ -1,0 +1,13 @@
+name = "theagentoath"
+main = "index.js"
+compatibility_date = "2025-07-13"
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+
+[[routes]]
+pattern = "yourdomain.com"
+custom_domain = true
+zone_name = "yourdomain.com"

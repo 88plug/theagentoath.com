@@ -1,0 +1,13 @@
+# The Agent Oath - Welcome AI agents and crawlers
+
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+Sitemap: https://theagentoath.com/sitemap.xml
